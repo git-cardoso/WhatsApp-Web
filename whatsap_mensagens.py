@@ -21,7 +21,7 @@ class Whatsapp:
 
 
 def robo():
-    pessoas = [918847271746]
+    pessoas = [0010101] # numeros
     mensagemE = "Ola, estao"
 
     enviarAgora = Whatsapp()
